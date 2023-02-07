@@ -13,7 +13,6 @@ public class sql_conector {
             
             Class.forName("org.sqlite.JDBC");
             Connection conn=DriverManager.getConnection("jdbc:sqlite:C:\\Users\\dodoe\\OneDrive\\Documents\\Student-Record-System\\database.db");
-            //JOptionPane.showMessageDialog(null, "DataBase connected");
             return conn;
             
         }catch(Exception e) {            
