@@ -6,7 +6,6 @@
 <https://user-images.githubusercontent.com/108467668/217909422-23ad5c61-4ba5-4cef-aba4-40fc240c201b.mp4>
 
 
-
 # Setup
 1. Downlaod the project and open it
 2. Add the JAR files
