@@ -3,7 +3,7 @@
 2. In the Admin page you can add, delete or search students and you can add their grades.
 3. In the student page you can check your grades.
 
-<https://user-images.githubusercontent.com/108467668/217909422-23ad5c61-4ba5-4cef-aba4-40fc240c201b.mp4>
+https://user-images.githubusercontent.com/108467668/217909422-23ad5c61-4ba5-4cef-aba4-40fc240c201b.mp4
 # Setup
 1. Downlaod the project and open it
 2. Add the JAR files
