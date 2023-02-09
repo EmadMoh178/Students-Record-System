@@ -9,4 +9,5 @@ https://user-images.githubusercontent.com/108467668/217909422-23ad5c61-4ba5-4cef
 2. Add the JAR files
 3. Change the address of the database in the SQL connector class to the location of project folder on your PC
 4. Export the project
-<https://user-images.githubusercontent.com/108467668/217907182-41709a93-d69f-4696-9d43-6eb7c7aa2561.mp4>
+
+https://user-images.githubusercontent.com/108467668/217907182-41709a93-d69f-4696-9d43-6eb7c7aa2561.mp4
