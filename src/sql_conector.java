@@ -12,7 +12,7 @@ public class sql_conector {
         try {
             
             Class.forName("org.sqlite.JDBC");
-            Connection conn=DriverManager.getConnection("jdbc:sqlite:C:\\Users\\dodoe\\OneDrive\\Documents\\Student-Record-System\\database.db");
+            Connection conn=DriverManager.getConnection("jdbc:sqlite:C:\\Users\\dodoe\\OneDrive\\Documents\\Student-Record-System-main\\database.db");
             return conn;
             
         }catch(Exception e) {            
